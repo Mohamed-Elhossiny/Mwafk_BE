@@ -1,0 +1,6 @@
+@Mwafk_BE_HostAddress = http://localhost:5062
+
+GET {{Mwafk_BE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
